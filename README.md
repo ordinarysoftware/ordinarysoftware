@@ -17,7 +17,8 @@
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-%23D83B01.svg?style=for-the-badge&logo=microsoft%20office&logoColor=white)
 
 
 ### 📊 Stats
