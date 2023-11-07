@@ -1,7 +1,12 @@
-# 🔭⚡ Hi there! 👋 I'm Nurmuhammad
+# ⚡ Hi there! 👋 I'm Nurmuhammad
 
-Student in Jacobs University of Bremen, Computer Science
+👨‍💻 Computer Science Student at Constructor University Bremen(formerly Jacobs University of Bremen)
+🌟 Passionate about coding, problem-solving, and open source
+🚀 Exploring the world of software development
 
+🔭 Currently learning and working on web development, machine learning, and data science projects
+📚 Seeking to expand my knowledge in algorithms and data structures
+💡 Open to collaborating and contributing to exciting projects
 ---
 ### 🧰 Languages and Tools
 
@@ -23,7 +28,8 @@ Student in Jacobs University of Bremen, Computer Science
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ordinarysoftware&theme=gruvbox&border_radius=4.5) -->
 
 #
-
+📖 Always eager to learn and grow
+💬 Let's connect and learn together!
 <h5>How to reach me:
 <br><br> 
 <a href="mailto:Abdurasulovs.01.27@gmail.com"><img src="https://img.shields.io/badge/-Abdurasulovs.01.27@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
