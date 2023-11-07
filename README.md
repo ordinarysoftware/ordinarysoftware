@@ -1,6 +1,6 @@
 # 🔭⚡ Hi there! 👋 I'm Nurmuhammad
 
-
+Student in Jacobs University of Bremen, Computer Science
 
 ---
 ### 🧰 Languages and Tools
