@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hi there! 👋 I'm Nurmuhammad
 
-<!--
-**ordinarysoftware/ordinarysoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer with a passion for coding and a love for open-source projects.
 
-Here are some ideas to get you started:
+### Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript
+- C
+- C++
+- .NET Core
+- C#
+- CSS
+- HTML
+- Python
+
+### Contact Me
+
+You can reach out to me via email at [your.email@gmail.com](mailto:your.email@gmail.com). 
+
+Connect with me on:
+- [GitHub](https://github.com/yourusername)
+- [LinkedIn](https://www.linkedin.com/in/yourusername)
