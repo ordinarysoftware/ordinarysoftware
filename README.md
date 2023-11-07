@@ -1,4 +1,4 @@
-<h1>Hi there! 👋 I'm [Your Name] <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1>Hi there! 👋 I'm Nurmuhammad <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h4>Software Developer</h4>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -12,5 +12,6 @@
 
 <h5>How to reach me:
 <br><br> 
-<a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/-your.email@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:Abdurasulovs.01.27@gmail.com"><img src="https://img.shields.io/badge/-Abdurasulovs.01.27@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nurmukhammad-abdurasulov-950160195/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
+
