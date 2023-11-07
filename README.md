@@ -1,5 +1,10 @@
+# 🔭⚡ Nurmukhammad
+
 <h1>Hi there! 👋 I'm Nurmuhammad <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h4>Software Developer</h4>
+
+
+---
+### 🧰 Languages and Tools
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
