@@ -10,6 +10,16 @@
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
+
+
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=ordinarysoftware&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ordinarysoftware&theme=gruvbox&border_radius=4.5) -->
+
+#
+
 <h5>How to reach me:
 <br><br> 
 <a href="mailto:Abdurasulovs.01.27@gmail.com"><img src="https://img.shields.io/badge/-Abdurasulovs.01.27@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
