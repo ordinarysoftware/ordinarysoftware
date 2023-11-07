@@ -1,5 +1,4 @@
-# 🔭⚡ Nurmukhammad
-
+# 🔭⚡ Hi there! 👋 I'm Nurmuhammad
 
 
 
